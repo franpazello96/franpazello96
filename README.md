@@ -5,10 +5,6 @@
 Full Stack Developer passionate about turning ideas into real technological solutions.
 </p>
 
-<p align="center">
-💻 I am a Fullstack developer passionate about technology and always seeking to learn.  
-</p>
-
 ## My Skill Set  
 
 <p align="center">
