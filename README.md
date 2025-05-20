@@ -1,4 +1,3 @@
-
 <p align="center">Hi, I'm FranPazello 👩‍💻</p>
 
 <p align="center">
