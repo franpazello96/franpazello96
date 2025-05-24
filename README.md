@@ -1,9 +1,3 @@
-<p align="center">Hi, I'm FranPazello 👩‍💻</p>
-
-<p align="center">
-Full Stack Developer passionate about turning ideas into real technological solutions.
-</p>
-
 ## My Skill Set  
 
 <p align="center">
