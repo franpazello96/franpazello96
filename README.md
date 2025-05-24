@@ -20,9 +20,3 @@ Full Stack Developer passionate about turning ideas into real technological solu
   <a href="https://instagram.com/franpazello" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>  
   
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospepato&hide_border=true&layout=donut&theme=dark" align="center" /></div>
-
-
-
-
